@@ -135,7 +135,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+*.xml
+*.iml
+.gitignore
+*.csv
 # Spyder project settings
 .spyderproject
 .spyproject
